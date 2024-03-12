@@ -2,7 +2,7 @@
 
 Welcome to My YT Clone! This project is a YouTube clone built using React.js and the RapidAPI YouTube v3. With My YT Clone, you can enjoy a YouTube-like experience, complete with features such as video filters, video search, channel search, viewing all videos of a channel, and displaying subscriber counts.
 
-Live Website : [https://beautiful-cranachan-15ca24.netlify.app/](https://beautiful-cranachan-15ca24.netlify.app/)
+Live Website : ('https://youtube-clone-puce-six.vercel.app/')
 
 ## Table of Contents
 
